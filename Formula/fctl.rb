@@ -1,9 +1,9 @@
 class Fctl < Formula
     desc "Formant cli tool"
     homepage "formant.io"
-    url "https://repo.formant.io/artifactory/binary/fctl_darwin_amd64_1.63.17.tar.gz"
-    sha256 "7081e05d33e8419ba21a8123e0e13bb5401ea95d6c54a0f1f5826f8d94013de3"
-    version "1.63.17"
+    url "https://repo.formant.io/artifactory/binary/fctl_darwin_amd64_1.64.22.tar.gz"
+    sha256 "a3971fa68369d8d099f5878684cec2e62da015c01178632d727822cefac72de1"
+    version "1.64.22"
 
     bottle :unneeded
 
