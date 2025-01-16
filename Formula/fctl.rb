@@ -2,7 +2,7 @@ class Fctl < Formula
     desc "Formant cli tool"
     homepage "formant.io"
     url "https://repo.formant.io/artifactory/binary/fctl_darwin_amd64_1.216.1.tar.gz"
-    sha256 "af822f0e0edb8d40b23a1e4ecd2a501f150908734f114571b10db62e3fb08f2b"
+    sha256 "74fcb42a2f6d42a5e4a3818c16ae852e703981308238064c3bd60878f22f0ef4"
     version "1.216.1"
 
     def install
